@@ -7,7 +7,7 @@ import { BsTwitterX } from "react-icons/bs";
 const Footer = () => {
     return(
         <div id="footer">
-            <h3 id='social'>Social Media Plattforms</h3>
+            <h3 id='social-heading'>Social Media Plattforms</h3>
             <div id='icon-images'>
          <CiYoutube/>
         <FaFacebook />
@@ -16,7 +16,7 @@ const Footer = () => {
         <BsTwitterX />
             </div>
            <div id='contact'>
-           <h3>Contact Us</h3>
+           <h3 id='contact-us'>Contact Us</h3>
           <p id='p1'> PhoneNumber: +254793058550</p>
           <p id='p1'>Email: protechs@gmail.com</p>
             </div>

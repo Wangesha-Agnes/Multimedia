@@ -8,10 +8,12 @@ const Summary = ()=>{
            <h1>Themes</h1>
            <h2>Social Aspects</h2>
            <h2>The possesion of courage and Perseverance</h2>
+           <div>
            <p>The characters in Born A Crime are able to achieve great succes by having courage and persevering through difficult times</p>
            <p>When Patricia ws a child she was able to tap into her survivalskills and endure poverty and unhappiness that she was born </p>
            <p>into. In today's worl this narrative encourages readers to reflect on their own resilience and the importance of perseverance</p>
            <p>in the face of adversity</p>
+           </div>
         </div>
         <div>
             <h1>Political aspects</h1>
