@@ -1,5 +1,5 @@
 import React from "react";
-// import './index.css'
+import './index.css'
 const Podcast = () =>{
     return(
     <div className ="Podcast">
@@ -18,15 +18,15 @@ const Podcast = () =>{
         <div className="episodes">
             <div className="mics">
             <figcaption>Life Lately</figcaption>
-            <img src="/Images/headphones.png" className="mic" alt=""/>
+            <img src="/images/headphones.jpeg" className="mic" alt=""/>
             <figcaption>Adulting</figcaption>
-            <img src="/Images/headphones.png" className="mic" alt=""/>
+            <img src="/images/headphones.jpeg" className="mic" alt=""/>
             </div>
             <div className="mics2">
             <figcaption>Career</figcaption>
-            <img src="/Images/headphones.png" className="mic" alt=""/>
+            <img src="/images/headphones.jpeg" className="mic" alt=""/>
             <figcaption>Getting ready for the workspace</figcaption>
-            <img src="/Images/headphones.png" className="mic" alt=""/>
+            <img src="/images/headphones.jpeg" className="mic" alt=""/>
             </div>
         </div>
         </div>

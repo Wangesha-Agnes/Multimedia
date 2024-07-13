@@ -2,7 +2,7 @@
     background-color: #040404;
     color: white;
     display: flex;
-    gap: 10%;
+    gap: 9%;
     margin-top: 3px;
 }
 .social-pallatforms{
@@ -12,18 +12,19 @@ font-size: 23px;
 #icon-images {
     display: flex;
     gap: 5%;
-    margin-left: -28%;
+    margin-left: -24%;
     margin-top: 120px;
-    font-size: 39px;
+    width: 390px;
 }
 .social{
-    margin-left: -19%;
+    margin-left: 9%;
     font-size: 30px;
-    margin-left: 203px;
+  
 }
 #quick-links{
     margin-left: -23px;
     font-size: 12px;
+    color: white;
 }
 h3{
     font-size: 30px;
@@ -34,8 +35,10 @@ h3{
     font-size: 12px;
 }
 #h1{
-margin-left: 45%;
+margin-left: 25%;
+color: white;
 }
 #p1{
-    margin-left: 45%;
+    margin-left: 25%;
+    color: white;
 }

@@ -5,8 +5,8 @@
     margin: 0;
     padding: 0;
     background-size: cover;
-    top: 0;
-    position: fixed;
+    /* top: 0; */
+    /* position: fixed; */
     border-radius: 25px;
 }
 h1{
@@ -21,12 +21,14 @@ p{
     margin-top: 5%;
 }
 .mic{
-    width: 130px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
 }
 .episodes{
     display: flex;
     gap: 35%;
-    margin-top: 28%;
+    margin-top: 2%;
     margin-left: 25%;
 }
 figcaption{

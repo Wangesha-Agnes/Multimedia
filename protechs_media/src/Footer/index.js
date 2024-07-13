@@ -7,7 +7,7 @@ import { BsTwitterX } from "react-icons/bs";
 const Footer = () => {
     return(
         <div id="footer">
-            <h3 id='social'>Socisl Media Plattforms</h3>
+            <h3 id='social'>Social Media Plattforms</h3>
             <div id='icon-images'>
          <CiYoutube/>
         <FaFacebook />

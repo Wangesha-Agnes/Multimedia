@@ -35,11 +35,11 @@ const Navbar = () => {
         <h4>GanzaPay</h4>
       </div> */}
       <div className='items'>
-<li><a className='text'>Home</a></li>
-<li><a className='text'>Podcasts</a></li>
-<li><a className='text'>Videos</a></li>
-<li><a className='text'>Blogs</a></li>
-<li><a className='text'>About Us</a></li>
+<li><a href="texts" className='text'>Home</a></li>
+<li><a  className='text'>Podcasts</a></li>
+<li><a  className='text'>Videos</a></li>
+<li><a  className='text'>Blogs</a></li>
+<li><a  className='text'>About Us</a></li>
       </div>
       </div>
 <div className='hamburger'>
@@ -55,11 +55,11 @@ const Navbar = () => {
             <div className="back-button" onClick={handleCloseClick}>
               <IoMdClose size={30} />
             </div>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">Podcasts</a></li>
-            <li><a href="#">Videos</a></li>
-            <li><a href="#">Blogs</a></li>
-            <li><a href="#">About Us</a></li>
+            <li><a href="text">Home</a></li>
+            <li><a href="text">Podcasts</a></li>
+            <li><a href="text">Videos</a></li>
+            <li><a href="text">Blogs</a></li>
+            <li><a href="text">About Us</a></li>
           </motion.div>
         )}
       </div>

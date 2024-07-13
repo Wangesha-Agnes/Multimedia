@@ -17,6 +17,9 @@
     height: 210px;
     justify-content: center;
 }
+.video-title{
+    margin-right: 40%;
+}
 .video1{
     border: 2px solid #ddd;
     border-radius: px;
